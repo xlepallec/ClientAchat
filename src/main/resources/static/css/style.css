@@ -1,0 +1,11 @@
+.hover-cell {
+
+}
+
+.hover-button {
+    display: none
+}
+
+.hover-cell:hover .hover-button {
+    display: inline-block;
+}
